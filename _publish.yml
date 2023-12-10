@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 794f7227-6a66-40bf-8899-ffc6c84c8df5
+      url: 'https://aryhnr.quarto.pub/aryhnr'
+    - id: ca13b9b7-9c82-4e96-9304-0ce82dfa61b8
+      url: 'https://aryhnr.quarto.pub/aryhnr'

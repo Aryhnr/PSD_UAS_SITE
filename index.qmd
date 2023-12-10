@@ -1,0 +1,14 @@
+---
+title: "KLASIFIKASI HEPATITIS C"
+---
+Link Implementasi [Streamlit](https://aryhnr-psd-uas.streamlit.app/)
+
+Selamat datang dalam perjalanan pengetahuan dan inovasi di dunia sains data yang mengarah pada pemahaman dan penanganan penyakit hepatitis C. Proyek ini menggabungkan kecanggihan teknologi sains data dengan urgensi penelitian medis untuk meningkatkan deteksi dini, diagnosis, dan pengelolaan penyakit yang memengaruhi jutaan orang di seluruh dunia.
+
+Hepatitis C, yang disebabkan oleh virus hepatitis C (HCV), merupakan ancaman global terhadap kesehatan masyarakat. Dalam usaha untuk menghadapi tantangan ini, proyek sains data klasifikasi hepatitis C dibangun dengan tujuan utama: mengembangkan model klasifikasi yang dapat membedakan antara individu yang terinfeksi dan yang tidak terinfeksi, berdasarkan data klinis dan biomarker terkait.
+
+Pendekatan ini mencakup penggalian data dari berbagai sumber, termasuk riwayat kesehatan, hasil tes laboratorium, dan faktor risiko lainnya. Melalui penerapan teknik-teknik analisis data canggih, seperti machine learning dan algoritma klasifikasi, proyek ini bertujuan untuk memberikan kontribusi signifikan dalam upaya mendeteksi hepatitis C lebih awal, mengarah pada penanganan yang lebih efektif.
+
+Proyek ini tidak hanya mempertimbangkan aspek diagnostik, tetapi juga berfokus pada pemahaman lebih lanjut tentang faktor-faktor risiko yang mungkin berkontribusi pada penyebaran penyakit ini. Dengan memanfaatkan kekuatan sains data, kita berharap dapat mengidentifikasi pola-pola yang tersembunyi dalam data yang kompleks dan mendukung pencegahan lebih lanjut serta intervensi yang tepat.
+
+Pentingnya proyek ini tidak hanya terletak pada kontribusinya terhadap perkembangan sains medis, tetapi juga pada potensi untuk meningkatkan kehidupan pasien dengan memungkinkan diagnosis dini, pengobatan yang lebih efektif, dan pengelolaan yang lebih baik. Semoga proyek ini menjadi tonggak penting dalam upaya global untuk mengatasi beban kesehatan masyarakat yang ditimbulkan oleh hepatitis C, membawa kita menuju masa depan yang lebih sehat dan berkelanjutan.

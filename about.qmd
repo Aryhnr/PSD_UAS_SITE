@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+<img src="Foto.jpg" alt="Foto Penulis" style="width:150px;height:190px;">
+
+**Penulis:** AKH.RAIHAN GIMNASTIAR RAKHMAN 210411100232  
+**Tanggal:** 12/3/2023
+
